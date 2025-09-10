@@ -1,0 +1,31 @@
+{
+  "iss": "https://accounts.example.com",
+  "sub": "xxxxx-00000-zzzzz",
+  "aud": "urn:oid:2.16.840.1.113883.3.7204.1.3.1.2",
+  "exp": "1757467286",
+  "iat": "1757466386",
+  "jti": "CC38ED41-6F3A-484A-BD37-E98845FF753A",
+
+  "given_name": "George",
+  "family_name": "Washington",
+  "email": "george@1776.org",
+  "email_verified": true,
+  "birthdate": "2/22/1732",
+  "address": {
+    "formatted": "3200 Mount Vernon Memorial Hwy, Mt Vernon, VA 22121 USA",
+    "street_address": "3200 Mount Vernon Memorial Hwy",
+    "locality": "Mt Vernon",
+    "regionality": "Virginia",
+    "postal_code": "22121",
+    "country": "USA"
+  },
+    "historical_address": {
+    "formatted": "524-30 Market Street, Philadelphia, PA 19106 USA",
+    "street_address": "524-30 Market Street",
+    "locality": "Philadelphia",
+    "regionality": "Pennsylvania",
+    "postal_code": "19106",
+    "country": "USA"
+  },
+  "gender": "M"
+}

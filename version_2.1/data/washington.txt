@@ -1,0 +1,19 @@
+# Fixed for this simulated QHIN
+# HCID of the IAS Provider as a URI. For example, urn:oid:<oid> (per RFC 3001).
+__AUD__	urn:oid:2.16.840.1.113883.3.7204.1.3.1.2
+# The base URL of the CSP at which the JWKS is accessible.
+__ISS__	https://accounts.example.com
+
+# Example only, will be rewritten in software
+# When the CSP issued the token. Sunday, December 1, 2024 0:00:00
+# This is the value for IAT, written as 999000888 to keep our
+# template JSON files legal
+__IAT__	1733011200
+__EXP__	1733011260
+
+# Unique identifier for the JWT.
+__JTI__	df5bcc3b-3a6d-4511-9072-64a95f3d69c5
+
+# Not used, but included as a placeholder
+# Subject
+__SUB__	xxxxx-00000-zzzzz

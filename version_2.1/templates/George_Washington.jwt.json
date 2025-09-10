@@ -1,0 +1,31 @@
+{
+  "iss": "__ISS__",
+  "sub": "__SUB__",
+  "aud": "__AUD__",
+  "exp": "__EXP__",
+  "iat": "__IAT__",
+  "jti": "__JTI__",
+
+  "given_name": "George",
+  "family_name": "Washington",
+  "email": "george@1776.org",
+  "email_verified": true,
+  "birthdate": "2/22/1732",
+  "address": {
+    "formatted": "3200 Mount Vernon Memorial Hwy, Mt Vernon, VA 22121 USA",
+    "street_address": "3200 Mount Vernon Memorial Hwy",
+    "locality": "Mt Vernon",
+    "regionality": "Virginia",
+    "postal_code": "22121",
+    "country": "USA"
+  },
+    "historical_address": {
+    "formatted": "524-30 Market Street, Philadelphia, PA 19106 USA",
+    "street_address": "524-30 Market Street",
+    "locality": "Philadelphia",
+    "regionality": "Pennsylvania",
+    "postal_code": "19106",
+    "country": "USA"
+  },
+  "gender": "M"
+}
